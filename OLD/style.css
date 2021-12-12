@@ -1,0 +1,46 @@
+h1 { 
+    color: blue; 
+} 
+ 
+h2 { 
+    color: red; 
+} 
+ 
+body { 
+    background-color: wheat; 
+    padding-left: 20px; 
+} 
+ 
+div { 
+    color: rgb(255, 255, 255); 
+    background: blue; 
+ 
+    width: 200px; 
+    height: 250px; 
+ 
+    border: 20px solid green; 
+ 
+    padding: 20px; 
+ 
+    font-family: Arial; 
+    font-size: 20px; 
+    font-weight: bold; 
+} 
+ 
+button { 
+    padding: 20px; 
+    margin: 20px; 
+}
+div {
+    width: 400px;
+    height: 200px;
+    background: brown;
+    color: chartreuse;
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
